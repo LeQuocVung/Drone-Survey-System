@@ -70,7 +70,7 @@ typedef enum {
     MSG_PING                = 0x0601,
     MSG_PONG                = 0x0602,
     MSG_DRONE_HEARTBEAT     = 0x0603,
-    MSG_SERVER_HEARTBEAT    = 0x0604
+    MSG_SERVER_HEARTBEAT    = 0x0604,
 
     /*SERVER -> CLIENT*/
     MSG_RES_OK              = 0x8000,
